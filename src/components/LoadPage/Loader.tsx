@@ -1,4 +1,4 @@
-import { LoaderStyled, LdsRing, LoaderText } from "./styled";
+import { LoaderStyled, LdsRing } from "./styled";
 
 export const Loader = () => (
   <LoaderStyled>
