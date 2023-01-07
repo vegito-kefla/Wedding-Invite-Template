@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
-  "homepage": "https://vegito-kefla.github.io/Wedding-Invite-Template",
+  "homepage": ".",
   "dependencies": {
     "@emotion/cache": "^11.10.5",
     "@emotion/react": "^11.10.5",
