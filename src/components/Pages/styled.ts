@@ -9,9 +9,10 @@ export const Title = styled(TextStyled)`
   text-align: center;
   z-index: 1;
   color: #fff;
+  font-style: italic;
 
   @media ${device.mobileS} {
-    font-size: 60px;
+    font-size: 40px;
   }
 
   @media ${device.tablet} {
