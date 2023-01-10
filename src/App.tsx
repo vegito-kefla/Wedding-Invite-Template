@@ -6,9 +6,10 @@ import { LoadPage } from "./components/LoadPage";
 import Image1 from "./images/wedding.jpg";
 import Image2 from "./images/image2.png";
 import Image3 from "./images/image3.png";
+import Image4 from "./images/image4.png";
 
 
-import { Page1, Page2, Page3 } from "./components/Pages";
+import { Page1, Page2, Page3, Page4 } from "./components/Pages";
 
 const pages = [
   {
@@ -22,6 +23,10 @@ const pages = [
   {
     img: Image3,
     content: <Page3 />
+  },
+  {
+    img: Image4,
+    content: <Page4 />
   },
 
 ];

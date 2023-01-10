@@ -3,7 +3,7 @@ import { TextStyled } from "../Text/styled";
 import { device } from "../../utils";
 
 export const Title = styled(TextStyled)`
-  font-family: Rouge Script;
+  font-family: Podkova;
   font-style: normal;
   font-weight: normal;
   text-align: center;
@@ -12,7 +12,7 @@ export const Title = styled(TextStyled)`
   font-style: italic;
 
   @media ${device.mobileS} {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   @media ${device.tablet} {
@@ -71,6 +71,31 @@ export const Page3Wrapper = styled.div`
 `;
 
 export const Page2Container = styled.div`
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  background-color: #ffffffa8;
+
+  ${TextStyled} {
+    font-family: "Podkova", sans-serif;
+  }
+
+  @media ${device.mobileS} {
+    margin: auto;
+    padding: 30px;
+  }
+
+  @media ${device.tablet} {
+    margin: 100px;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+  }
+
+  /* opacity: 0.5; */
+`;
+export const Page1Container = styled.div`
   display: flex;
   flex-direction: column;
   text-align: center;

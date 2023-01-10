@@ -5,13 +5,7 @@ export const Page1: React.FC = () => {
   return (
     <Page1Wrapper>
       <Title>
-        Prasobh
-      </Title>
-      <Title>
-        💘
-      </Title>
-      <Title>
-        Rewatee
+        YOU ARE INVITED TO OUR WEDDING !!
       </Title>
     </Page1Wrapper>
   );
