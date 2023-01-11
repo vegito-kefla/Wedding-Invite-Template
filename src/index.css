@@ -3,3 +3,43 @@ body {
   padding: 0px;
   margin: 0px;
 }
+
+
+@font-face {
+  font-family: myfirstfont;
+  src: url('./fonts/Wedding-ywP6Z.otf');
+}
+
+@font-face {
+  font-family: secondfont;
+  src: url('./fonts/Wedding-p7vVa.otf');
+}
+
+h2 {
+  font-family: myfirstfont;
+  color: black;
+  font-size: 36px;
+}
+
+.colortext {
+   color: steelblue !important;
+   padding-bottom: 50px;
+}
+
+.invite{
+  font-size: 20px;
+  color: steelblue !important;
+}
+
+.reception{
+  font-size: 20px;
+  color: palevioletred !important;
+}
+
+.location{
+  font-family: secondfont;
+  color: steelblue;
+  font-size: 40px;
+  /* margin-right: 50px; */
+  text-align: center
+}
