@@ -3,8 +3,8 @@ import { Page } from "./components/Page/Page";
 import { AppStyled } from "./styled";
 import { LoadPage } from "./components/LoadPage";
 
-import Image1 from "./images/wedding.jpg";
-import Image2 from "./images/image2.png";
+import Image1 from "./images/photo8.jpg";
+import Image2 from "./images/photo7.jpg";
 import Image3 from "./images/image3.png";
 import Image4 from "./images/image4.png";
 
