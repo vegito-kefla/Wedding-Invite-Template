@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Wedding-Invite-Template/static/css/main.6098fe7e.chunk.css",
-    "main.js": "/Wedding-Invite-Template/static/js/main.294d9429.chunk.js",
-    "main.js.map": "/Wedding-Invite-Template/static/js/main.294d9429.chunk.js.map",
+    "main.js": "/Wedding-Invite-Template/static/js/main.d6cea39b.chunk.js",
+    "main.js.map": "/Wedding-Invite-Template/static/js/main.d6cea39b.chunk.js.map",
     "runtime-main.js": "/Wedding-Invite-Template/static/js/runtime-main.8722221e.js",
     "runtime-main.js.map": "/Wedding-Invite-Template/static/js/runtime-main.8722221e.js.map",
-    "static/js/2.6c3a1f78.chunk.js": "/Wedding-Invite-Template/static/js/2.6c3a1f78.chunk.js",
-    "static/js/2.6c3a1f78.chunk.js.map": "/Wedding-Invite-Template/static/js/2.6c3a1f78.chunk.js.map",
+    "static/js/2.ac4d0c45.chunk.js": "/Wedding-Invite-Template/static/js/2.ac4d0c45.chunk.js",
+    "static/js/2.ac4d0c45.chunk.js.map": "/Wedding-Invite-Template/static/js/2.ac4d0c45.chunk.js.map",
     "index.html": "/Wedding-Invite-Template/index.html",
     "static/css/main.6098fe7e.chunk.css.map": "/Wedding-Invite-Template/static/css/main.6098fe7e.chunk.css.map",
-    "static/js/2.6c3a1f78.chunk.js.LICENSE.txt": "/Wedding-Invite-Template/static/js/2.6c3a1f78.chunk.js.LICENSE.txt",
+    "static/js/2.ac4d0c45.chunk.js.LICENSE.txt": "/Wedding-Invite-Template/static/js/2.ac4d0c45.chunk.js.LICENSE.txt",
     "static/media/image3.66bce1d3.png": "/Wedding-Invite-Template/static/media/image3.66bce1d3.png",
     "static/media/image4.82ff3edd.png": "/Wedding-Invite-Template/static/media/image4.82ff3edd.png",
     "static/media/photo7.529b6f35.jpg": "/Wedding-Invite-Template/static/media/photo7.529b6f35.jpg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8722221e.js",
-    "static/js/2.6c3a1f78.chunk.js",
+    "static/js/2.ac4d0c45.chunk.js",
     "static/css/main.6098fe7e.chunk.css",
-    "static/js/main.294d9429.chunk.js"
+    "static/js/main.d6cea39b.chunk.js"
   ]
 }
